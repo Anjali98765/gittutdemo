@@ -1,0 +1,6 @@
+*.log
+/din/
+
+static/din/
+
+myexcel.xlsx
